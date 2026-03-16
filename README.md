@@ -1,5 +1,5 @@
 # Hello Everyone
 
-I am a Mathematics student at Universitas Gadjah Mada (UGM) with a strong interest in data analysis. I have a high level of enthusiasm for understanding and processing data to generate meaningful insights. Throughout my academic journey, I have developed skills in Python programming, which I use for data analysis and mathematical modeling. I am always eager to learn new things and seek opportunities to apply my skills in real-world projects.
+I am a Mathematics fresh graduate from Universitas Gadjah Mada (UGM) with a strong interest in analysis, problem-solving, and continuous skill development. My academic background has strengthened my logical and analytical thinking abilities, as well as my adaptability in diverse work environments. I am highly motivated to keep learning and to make meaningful contributions in a professional and collaborative setting.
 
 
